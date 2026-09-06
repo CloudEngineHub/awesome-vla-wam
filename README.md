@@ -90,6 +90,8 @@ Code-as-Policy (CaP) methods use Large Language Models (LLMs) agentic system as 
 
 ## VLA Models
 
+- **ZETA**, ZETA: A Controlled Study of Zero-Shot Cross-Embodiment VLA Transfer for Tabletop Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2609.02546-b31b1b.svg)](https://arxiv.org/abs/2609.02546)
+
 - [⭐️] **Gemini Robotics 2**, Gemini Robotics 2: The intelligence layer to power any kind of robot. [![Website](https://img.shields.io/badge/Website-Link-blue)](https://deepmind.google/models/gemini-robotics/)
 
 - [⭐️] **Xiaomi-Robotics-1**, Xiaomi-Robotics-1: Scaling Vision-Language-Action Models with over 100K Hours of Real-World Trajectories. [![arXiv](https://img.shields.io/badge/arXiv-2607.15330-b31b1b.svg)](https://arxiv.org/abs/2607.15330) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://robotics.xiaomi.com/xiaomi-robotics-1.html)
@@ -499,6 +501,8 @@ Code-as-Policy (CaP) methods use Large Language Models (LLMs) agentic system as 
 - [⭐️] **GR00T N1**, GR00T N1: An Open Foundation Model for Generalist Humanoid Robots. [![arXiv](https://img.shields.io/badge/arXiv-2503.14734-b31b1b.svg)](https://arxiv.org/abs/2503.14734) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://developer.nvidia.com/isaac/gr00t)
 
 - **AdaWorld**, AdaWorld: Learning Adaptable World Models with Latent Actions. [![arXiv](https://img.shields.io/badge/arXiv-2503.18938-b31b1b.svg)](https://arxiv.org/abs/2503.18938) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://adaptable-world-model.github.io)
+
+- **LAOM**, Latent Action Learning Requires Supervision in the Presence of Distractors. [![arXiv](https://img.shields.io/badge/arXiv-2502.00379-b31b1b.svg)](https://arxiv.org/abs/2502.00379) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://laom.dunnolab.ai/)
 
 - **Moto**, Moto: Latent Motion Token as the Bridging Language for Learning Robot Manipulation from Videos. [![arXiv](https://img.shields.io/badge/arXiv-2412.04445-b31b1b.svg)](https://arxiv.org/abs/2412.04445) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://chenyi99.github.io/moto/)
 
