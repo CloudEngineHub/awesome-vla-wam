@@ -124,6 +124,8 @@ Code-as-Policy (CaP) methods use Large Language Models (LLMs) agentic system as 
 
 - **DIAL** DIAL: Decoupling Intent and Action via Latent World Modeling for End-to-End VLA. [![arXiv](https://img.shields.io/badge/arXiv-2603.29844-b31b1b.svg)](https://arxiv.org/abs/2603.29844) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://xpeng-robotics.github.io/dial/)
 
+- **SG-VLA**, SG-VLA: Learning Spatially-Grounded Vision-Language-Action Models for Mobile Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2603.22760-b31b1b.svg)](https://arxiv.org/abs/2603.22760)
+
 - [⭐️] **VLANeXt**, VLANeXt: Recipes for Building Strong VLA Models. [![arXiv](https://img.shields.io/badge/arXiv-2602.18532-b31b1b.svg)](https://arxiv.org/abs/2602.18532) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://dravenalg.github.io/VLANeXt/)
 
 - **LAP**, LAP: Language-Action Pre-Training Enables Zero-shot Cross-Embodiment Transfer. [![arXiv](https://img.shields.io/badge/arXiv-2602.10556-b31b1b.svg)](https://arxiv.org/abs/2602.10556) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://lap-vla.github.io)
@@ -284,6 +286,8 @@ Code-as-Policy (CaP) methods use Large Language Models (LLMs) agentic system as 
 - [⭐️] **ACVP**, Action-Conditional Video Prediction using Deep Networks in Atari Games. [![arXiv](https://img.shields.io/badge/arXiv-1507.08750-b31b1b.svg)](https://arxiv.org/abs/1507.08750)
 
 ## World Action Models
+
+- **Zero-WAM**, Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task Generalization. [![arXiv](https://img.shields.io/badge/arXiv-2608.26103-b31b1b.svg)](https://arxiv.org/abs/2608.26103) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://robbyant-research.github.io/Zero-WAM/)
 
 - **Faster-WAM**, Faster-WAM: Efficient Inference-Time Future Conditioning for Robust World Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2608.04404-b31b1b.svg)](https://arxiv.org/abs/2608.04404) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/hustvl/FasterWAM)
 
@@ -622,6 +626,8 @@ Code-as-Policy (CaP) methods use Large Language Models (LLMs) agentic system as 
 
 - [⭐️] **RoboLab**, RoboLab: A High-Fidelity Simulation Benchmark for Analysis of Task Generalist Policies. [![arXiv](https://img.shields.io/badge/arXiv-2604.09860-b31b1b.svg)](https://arxiv.org/abs/2604.09860) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://research.nvidia.com/labs/srl/projects/robolab/)
 
+- **RMBench**, RMBench: Memory-Dependent Robotic Manipulation Benchmark with Insights into Policy Design. [![arXiv](https://img.shields.io/badge/arXiv-2603.01229-b31b1b.svg)](https://arxiv.org/html/2603.01229v3) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://rmbench.github.io)
+
 - [⭐️] **WorldArena**, WorldArena: A Unified Benchmark for Evaluating Perception and Functional Utility of Embodied World Models. [![arXiv](https://img.shields.io/badge/arXiv-2602.08971-b31b1b.svg)](https://arxiv.org/abs/2602.08971) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://world-arena.ai)
 
 - **PAI-Bench**, PAI-Bench: A Comprehensive Benchmark For Physical AI. [![arXiv](https://img.shields.io/badge/arXiv-2512.01989-b31b1b.svg)](https://arxiv.org/abs/2512.01989) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/SHI-Labs/physical-ai-bench)
@@ -633,6 +639,8 @@ Code-as-Policy (CaP) methods use Large Language Models (LLMs) agentic system as 
 - [⭐️] **RoboArena**, RoboArena: Distributed Real-World Evaluation of Generalist Robot Policies. [![arXiv](https://img.shields.io/badge/arXiv-2506.18123-b31b1b.svg)](https://arxiv.org/abs/2506.18123) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://robo-arena.github.io)
 
 - [⭐️] **RoboTwin 2.0**, RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2506.18088-b31b1b.svg)](https://arxiv.org/abs/2506.18088) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/robotwin-Platform/robotwin/)
+
+- **ManiSkill-HAB**, ManiSkill-HAB: A Benchmark for Low-Level Manipulation in Home Rearrangement Tasks. [![arXiv](https://img.shields.io/badge/arXiv-2412.13211-b31b1b.svg)](https://arxiv.org/html/2412.13211v3) [![Website](https://img.shields.io/badge/Website-Link-blue)](http://arth-shukla.github.io/mshab)
 
 - [⭐️] **RoboCasa**, RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots. [![arXiv](https://img.shields.io/badge/arXiv-2406.02523-b31b1b.svg)](https://arxiv.org/abs/2406.02523) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://robocasa.ai)
 
