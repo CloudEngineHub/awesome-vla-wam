@@ -305,7 +305,7 @@ Code-as-Policy (CaP) methods use Large Language Models (LLMs) agentic system as 
 
 - **WAM-TTT**, WAM-TTT: Steering World-Action Models by Watching Human Play at Test Time. [![arXiv](https://img.shields.io/badge/arXiv-2607.06988-b31b1b.svg)](https://arxiv.org/abs/2607.06988) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://flow-wam.github.io)
 
-- **LaWAM**, LaWAM: Latent World Action Models for Efficient Dynamics-Aware Robot Policies. [![arXiv](https://img.shields.io/badge/arXiv-2606.15768-b31b1b.svg)](https://arxiv.org/html/2606.15768) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://rlinf.github.io/LaWAM/)
+- **LaWAM**, LaWAM: Latent World Action Models for Efficient Dynamics-Aware Robot Policies. [![arXiv](https://img.shields.io/badge/arXiv-2606.15768-b31b1b.svg)](https://arxiv.org/abs/2606.15768) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://rlinf.github.io/LaWAM/)
 
 - **Next Forcing**, Next Forcing: Causal World Modeling with Multi-Chunk Prediction. [![arXiv](https://img.shields.io/badge/arXiv-2606.11187-b31b1b.svg)](https://arxiv.org/abs/2606.11187) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://gangweix.github.io/next-forcing/)
 
@@ -630,7 +630,7 @@ Code-as-Policy (CaP) methods use Large Language Models (LLMs) agentic system as 
 
 - [⭐️] **RoboLab**, RoboLab: A High-Fidelity Simulation Benchmark for Analysis of Task Generalist Policies. [![arXiv](https://img.shields.io/badge/arXiv-2604.09860-b31b1b.svg)](https://arxiv.org/abs/2604.09860) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://research.nvidia.com/labs/srl/projects/robolab/)
 
-- **RMBench**, RMBench: Memory-Dependent Robotic Manipulation Benchmark with Insights into Policy Design. [![arXiv](https://img.shields.io/badge/arXiv-2603.01229-b31b1b.svg)](https://arxiv.org/html/2603.01229v3) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://rmbench.github.io)
+- **RMBench**, RMBench: Memory-Dependent Robotic Manipulation Benchmark with Insights into Policy Design. [![arXiv](https://img.shields.io/badge/arXiv-2603.01229-b31b1b.svg)](https://arxiv.org/abs/2603.01229) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://rmbench.github.io)
 
 - [⭐️] **WorldArena**, WorldArena: A Unified Benchmark for Evaluating Perception and Functional Utility of Embodied World Models. [![arXiv](https://img.shields.io/badge/arXiv-2602.08971-b31b1b.svg)](https://arxiv.org/abs/2602.08971) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://world-arena.ai)
 
@@ -644,7 +644,7 @@ Code-as-Policy (CaP) methods use Large Language Models (LLMs) agentic system as 
 
 - [⭐️] **RoboTwin 2.0**, RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2506.18088-b31b1b.svg)](https://arxiv.org/abs/2506.18088) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/robotwin-Platform/robotwin/)
 
-- **ManiSkill-HAB**, ManiSkill-HAB: A Benchmark for Low-Level Manipulation in Home Rearrangement Tasks. [![arXiv](https://img.shields.io/badge/arXiv-2412.13211-b31b1b.svg)](https://arxiv.org/html/2412.13211v3) [![Website](https://img.shields.io/badge/Website-Link-blue)](http://arth-shukla.github.io/mshab)
+- **ManiSkill-HAB**, ManiSkill-HAB: A Benchmark for Low-Level Manipulation in Home Rearrangement Tasks. [![arXiv](https://img.shields.io/badge/arXiv-2412.13211-b31b1b.svg)](https://arxiv.org/abs/2412.13211) [![Website](https://img.shields.io/badge/Website-Link-blue)](http://arth-shukla.github.io/mshab)
 
 - [⭐️] **RoboCasa**, RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots. [![arXiv](https://img.shields.io/badge/arXiv-2406.02523-b31b1b.svg)](https://arxiv.org/abs/2406.02523) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://robocasa.ai)
 
