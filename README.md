@@ -90,11 +90,15 @@ Code-as-Policy (CaP) methods use Large Language Models (LLMs) agentic system as 
 
 ## VLA Models
 
+- [🌟] **MINERVA**, MINERVA: How Small Can a Manipulation Policy Be and Still Solve LIBERO? [![arXiv](https://img.shields.io/badge/arXiv-2609.03715-b31b1b.svg)](https://arxiv.org/abs/2609.03715)
+
 - **ZETA**, ZETA: A Controlled Study of Zero-Shot Cross-Embodiment VLA Transfer for Tabletop Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2609.02546-b31b1b.svg)](https://arxiv.org/abs/2609.02546)
 
 - [⭐️] **Gemini Robotics 2**, Gemini Robotics 2: The intelligence layer to power any kind of robot. [![Website](https://img.shields.io/badge/Website-Link-blue)](https://deepmind.google/models/gemini-robotics/)
 
 - [⭐️] **Xiaomi-Robotics-1**, Xiaomi-Robotics-1: Scaling Vision-Language-Action Models with over 100K Hours of Real-World Trajectories. [![arXiv](https://img.shields.io/badge/arXiv-2607.15330-b31b1b.svg)](https://arxiv.org/abs/2607.15330) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://robotics.xiaomi.com/xiaomi-robotics-1.html)
+
+- **VLA Grounder**, VLA Grounder: Language-Conditioning Space Optimization for Black-Box VLA Models. [![arXiv](https://img.shields.io/badge/arXiv-2607.04517-b31b1b.svg)](https://arxiv.org/abs/2607.04517) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://tttonyalpha.github.io/vla_grounder/)
 
 - [⭐️] **Qwen-RobotManip**, Qwen-RobotManip Technical Report: Alignment Unlocks Scale for Robotic Manipulation Foundation Models. [![arXiv](https://img.shields.io/badge/arXiv-2606.17846-b31b1b.svg)](https://arxiv.org/abs/2606.17846) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://qwen.ai/blog?id=qwen-robotmanip)
 
@@ -127,6 +131,8 @@ Code-as-Policy (CaP) methods use Large Language Models (LLMs) agentic system as 
 - **DIAL** DIAL: Decoupling Intent and Action via Latent World Modeling for End-to-End VLA. [![arXiv](https://img.shields.io/badge/arXiv-2603.29844-b31b1b.svg)](https://arxiv.org/abs/2603.29844) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://xpeng-robotics.github.io/dial/)
 
 - **SG-VLA**, SG-VLA: Learning Spatially-Grounded Vision-Language-Action Models for Mobile Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2603.22760-b31b1b.svg)](https://arxiv.org/abs/2603.22760)
+
+- **Pri4R**, Pri4R: Learning World Dynamics for Vision-Language-Action Models with Privileged 4D Representation. [![arXiv](https://img.shields.io/badge/arXiv-2603.01549-b31b1b.svg)](https://arxiv.org/abs/2603.01549) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://jiiiisoo.github.io/Pri4R/)
 
 - [⭐️] **VLANeXt**, VLANeXt: Recipes for Building Strong VLA Models. [![arXiv](https://img.shields.io/badge/arXiv-2602.18532-b31b1b.svg)](https://arxiv.org/abs/2602.18532) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://dravenalg.github.io/VLANeXt/)
 
@@ -253,7 +259,7 @@ Code-as-Policy (CaP) methods use Large Language Models (LLMs) agentic system as 
 
 ## World Models
 
--[⭐️] **Puffin-World**, Puffin-World: Scaling a Unified Multimodal Model with Native 3D World States. [![arXiv](https://img.shields.io/badge/arXiv-2609.04196-b31b1b.svg)](https://arxiv.org/abs/2609.04196) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://kangliao929.github.io/projects/puffin-world/)
+- [⭐️] **Puffin-World**, Puffin-World: Scaling a Unified Multimodal Model with Native 3D World States. [![arXiv](https://img.shields.io/badge/arXiv-2609.04196-b31b1b.svg)](https://arxiv.org/abs/2609.04196) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://kangliao929.github.io/projects/puffin-world/)
 
 - **Qwen-RobotWorld**, Qwen-RobotWorld Technical Report: Unifying Embodied World Modeling through Language-Conditioned Video Generation. [![arXiv](https://img.shields.io/badge/arXiv-2606.17030-b31b1b.svg)](https://arxiv.org/abs/2606.17030) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://qwen.ai/blog?id=qwen-robotworld)
 
@@ -476,6 +482,8 @@ Code-as-Policy (CaP) methods use Large Language Models (LLMs) agentic system as 
 
 - **RPT**, Robot Learning with Sensorimotor Pre-training. [![arXiv](https://img.shields.io/badge/arXiv-2306.10007-b31b1b.svg)](https://arxiv.org/abs/2306.10007) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://robotic-pretrained-transformer.github.io)
 
+- [⭐️] **ACT**, Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware. [![arXiv](https://img.shields.io/badge/arXiv-2304.13705-b31b1b.svg)](https://arxiv.org/abs/2304.13705) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://tonyzhaozh.github.io/aloha/)
+
 - [⭐️] **Diffusion Policy**, Diffusion Policy: Visuomotor Policy Learning via Action Diffusion. [![arXiv](https://img.shields.io/badge/arXiv-2303.04137-b31b1b.svg)](https://arxiv.org/abs/2303.04137) [![Website](https://img.shields.io/badge/Website-Link-blue)](http://diffusion-policy.cs.columbia.edu)
 
 - [⭐️] **RT-1**, RT-1: Robotics Transformer for Real-World Control at Scale. [![arXiv](https://img.shields.io/badge/arXiv-2212.06817-b31b1b.svg)](https://arxiv.org/abs/2212.06817) [![Website](https://img.shields.io/badge/Website-Link-blue)](http://robotics-transformer1.github.io)
@@ -485,6 +493,8 @@ Code-as-Policy (CaP) methods use Large Language Models (LLMs) agentic system as 
 ## Latent Action Models
 
 - **LAWM-3D**, LAWM-3D: Learning 3D-Aware Latent Actions from Human Videos for Generalizable Robot World Models. [![arXiv](https://img.shields.io/badge/arXiv-2608.05706-b31b1b.svg)](https://arxiv.org/abs/2608.05706)
+
+- **WALA**, WALA Learning Executable Latent Actions from Action-Labeled Demonstrations and Action-Free Videos. [![arXiv](https://img.shields.io/badge/arXiv-2607.11397-b31b1b.svg)](https://arxiv.org/abs/2607.11397) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://liujiahao2077.github.io/WALA.github.io/)
 
 - [⭐️] **LARA**, LARA: Latent Action Representation Alignment for Vision-Language-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2606.07100-b31b1b.svg)](https://arxiv.org/abs/2606.07100) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://lmy1001.github.io/ICML26_LARA/)
 
