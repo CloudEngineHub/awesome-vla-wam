@@ -96,6 +96,8 @@ Code-as-Policy (CaP) methods use Large Language Models (LLMs) agentic system as 
 
 - [⭐️] **Gemini Robotics 2**, Gemini Robotics 2: The intelligence layer to power any kind of robot. [![Website](https://img.shields.io/badge/Website-Link-blue)](https://deepmind.google/models/gemini-robotics/)
 
+- **TurboVLA**, TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM. [![arXiv](https://img.shields.io/badge/arXiv-2607.27205-b31b1b.svg)](https://arxiv.org/abs/2607.27205) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/H-EmbodVis/TurboVLA)
+
 - [⭐️] **Xiaomi-Robotics-1**, Xiaomi-Robotics-1: Scaling Vision-Language-Action Models with over 100K Hours of Real-World Trajectories. [![arXiv](https://img.shields.io/badge/arXiv-2607.15330-b31b1b.svg)](https://arxiv.org/abs/2607.15330) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://robotics.xiaomi.com/xiaomi-robotics-1.html)
 
 - **VLA Grounder**, VLA Grounder: Language-Conditioning Space Optimization for Black-Box VLA Models. [![arXiv](https://img.shields.io/badge/arXiv-2607.04517-b31b1b.svg)](https://arxiv.org/abs/2607.04517) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://tttonyalpha.github.io/vla_grounder/)
