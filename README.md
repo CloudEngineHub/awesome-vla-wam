@@ -299,7 +299,7 @@ Code-as-Policy (CaP) methods use Large Language Models (LLMs) agentic system as 
 
 ## World Action Models
 
-- **LeWAM**, Latent evolving World Action Model. [![arXiv](https://img.shields.io/badge/arXiv-2609.27455-b31b1b.svg)](https://arxiv.org/abs/2609.27455) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/XuejiFang/LeWAM)
+- **LeWAM**, LeWAM: Latent Evolving World Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2609.27455-b31b1b.svg)](https://arxiv.org/abs/2609.27455) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/XuejiFang/LeWAM)
 
 - **Zero-WAM**, Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task Generalization. [![arXiv](https://img.shields.io/badge/arXiv-2608.26103-b31b1b.svg)](https://arxiv.org/abs/2608.26103) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://robbyant-research.github.io/Zero-WAM/)
 
