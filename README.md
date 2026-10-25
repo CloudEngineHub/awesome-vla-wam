@@ -283,6 +283,8 @@ Human Action Pretraining (HAP) methods pretrain robot policies on human behavior
 
 - **WorldMem**, WorldMem: Long-term Consistent World Simulation with Memory. [![arXiv](https://img.shields.io/badge/arXiv-2504.12369-b31b1b.svg)](https://arxiv.org/abs/2504.12369) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://xizaoqu.github.io/worldmem/)
 
+- **Cosmos Transfer1**, Cosmos-Transfer1: Conditional World Generation with Adaptive Multimodal Control. [![arXiv](https://img.shields.io/badge/arXiv-2503.14492-b31b1b.svg)](https://arxiv.org/abs/2503.14492) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/nvidia-cosmos/cosmos-transfer1)
+
 - [⭐️] **Cosmos**, Cosmos World Foundation Model Platform for Physical AI. [![arXiv](https://img.shields.io/badge/arXiv-2501.03575-b31b1b.svg)](https://arxiv.org/abs/2501.03575) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/nvidia-cosmos/cosmos-predict1)
 
 - **GameFactory**, GameFactory: Creating New Games with Generative Interactive Videos. [![arXiv](https://img.shields.io/badge/arXiv-2501.08325-b31b1b.svg)](https://arxiv.org/abs/2501.08325) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://yujiwen.github.io/gamefactory/)
@@ -403,6 +405,8 @@ Human Action Pretraining (HAP) methods pretrain robot policies on human behavior
 
 - **UWM**, Unified World Models: Coupling Video and Action Diffusion for Pretraining on Large Robotic Datasets. [![arXiv](https://img.shields.io/badge/arXiv-2504.02792-b31b1b.svg)](https://arxiv.org/abs/2504.02792) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://weirdlabuw.github.io/uwm/)
 
+- **MineWorld**, MineWorld: a Real-Time and Open-Source Interactive World Model on Minecraft. [![arXiv](https://img.shields.io/badge/arXiv-2504.08388-b31b1b.svg)](https://arxiv.org/abs/2504.08388) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/microsoft/mineworld)
+
 - [⭐️] **UVAM**, Unified Video Action Model. [![arXiv](https://img.shields.io/badge/arXiv-2503.00200-b31b1b.svg)](https://arxiv.org/abs/2503.00200) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://unified-video-action-model.github.io)
 
 - **Inverse Probabilistic Adaptation**, Solving New Tasks by Adapting Internet Video Knowledge. [![arXiv](https://img.shields.io/badge/arXiv-2504.15369-b31b1b.svg)](https://arxiv.org/abs/2504.15369) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://diffusion-supervision.github.io/adapt2act/)
@@ -422,6 +426,10 @@ Human Action Pretraining (HAP) methods pretrain robot policies on human behavior
 - **GR-2**, GR-2: A Generative Video-Language-Action Model with Web-Scale Knowledge for Robot Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2410.06158-b31b1b.svg)](https://arxiv.org/abs/2410.06158) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://gr2-manipulation.github.io)
 
 - **GameNGen**, Diffusion Models Are Real-Time Game Engines. [![arXiv](https://img.shields.io/badge/arXiv-2408.14837-b31b1b.svg)](https://arxiv.org/abs/2408.14837) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://gamengen.github.io)
+
+- **IRASim**, IRASim: A Fine-Grained World Model for Robot Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2406.14540-b31b1b.svg)](https://arxiv.org/abs/2406.14540) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/bytedance/IRASim)
+
+- **iVideoGPT**, iVideoGPT: Interactive VideoGPTs are Scalable World Models. [![arXiv](https://img.shields.io/badge/arXiv-2405.15223-b31b1b.svg)](https://arxiv.org/abs/2405.15223) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://thuml.github.io/iVideoGPT)
 
 - **DIAMOND**, Diffusion for World Modeling: Visual Details Matter in Atari. [![arXiv](https://img.shields.io/badge/arXiv-2405.12399-b31b1b.svg)](https://arxiv.org/abs/2405.12399) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://diamond-wm.github.io)
 
