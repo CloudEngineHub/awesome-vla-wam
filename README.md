@@ -527,6 +527,14 @@ Human Action Pretraining (HAP) methods pretrain robot policies on human behavior
 
 - [⭐️] **PerAct**, Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2209.05451-b31b1b.svg)](https://arxiv.org/abs/2209.05451) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://peract.github.io)
 
+- **ThriftyDAgger**, ThriftyDAgger: Budget-Aware Novelty and Risk Gating for Interactive Imitation Learning. [![arXiv](https://img.shields.io/badge/arXiv-2109.08273-b31b1b.svg)](https://arxiv.org/abs/2109.08273) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/thrifty-dagger/home)
+
+- **LazyDAgger**, LazyDAgger: Reducing Context Switching in Interactive Imitation Learning. [![arXiv](https://img.shields.io/badge/arXiv-2104.00053-b31b1b.svg)](https://arxiv.org/abs/2104.00053) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/lazydagger/home)
+
+- **SafeDAgger**, Query-Efficient Imitation Learning for End-to-End Autonomous Driving. [![arXiv](https://img.shields.io/badge/arXiv-1605.06450-b31b1b.svg)](https://arxiv.org/abs/1605.06450)
+
+- **DAgger**, A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning. [![arXiv](https://img.shields.io/badge/arXiv-1011.0686-b31b1b.svg)](https://arxiv.org/abs/1011.0686)
+
 ## Latent Action Models
 
 - **LAWM-3D**, LAWM-3D: Learning 3D-Aware Latent Actions from Human Videos for Generalizable Robot World Models. [![arXiv](https://img.shields.io/badge/arXiv-2608.05706-b31b1b.svg)](https://arxiv.org/abs/2608.05706)
