@@ -210,6 +210,8 @@ Human Action Pretraining (HAP) methods pretrain robot policies on human behavior
 
 - **CronusVLA**, CronusVLA: Towards Efficient and Robust Manipulation via Multi-Frame Vision-Language-Action Modeling. [![arXiv](https://img.shields.io/badge/arXiv-2506.19816-b31b1b.svg)](https://arxiv.org/abs/2506.19816) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://lihaohn.github.io/CronusVLA.github.io/)
 
+- **RoboMonkey**, RoboMonkey: Scaling Test-Time Sampling and Verification for Vision-Language-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2506.17811-b31b1b.svg)](https://arxiv.org/abs/2506.17811) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://robomonkey-vla.github.io/)
+
 - **3D CAVLA**, 3D CAVLA: Leveraging Depth and 3D Context to Generalize Vision Language Action Models for Unseen Tasks. [![arXiv](https://img.shields.io/badge/arXiv-2505.05800-b31b1b.svg)](https://arxiv.org/abs/2505.05800) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://3d-cavla.github.io)
 
 - **VLA-RL**, VLA-RL: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning. [![arXiv](https://img.shields.io/badge/arXiv-2505.18719-b31b1b.svg)](https://arxiv.org/abs/2505.18719)[![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/GuanxingLu/vlarl)
@@ -482,6 +484,8 @@ Human Action Pretraining (HAP) methods pretrain robot policies on human behavior
 - **ReKep**, ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2409.01652-b31b1b.svg)](https://arxiv.org/abs/2409.01652) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://rekep-robot.github.io)
 
 - **VoxPoser**, VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models. [![arXiv](https://img.shields.io/badge/arXiv-2307.05973-b31b1b.svg)](https://arxiv.org/abs/2307.05973) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://voxposer.github.io)
+
+- **MOO**, Open-World Object Manipulation using Pre-Trained Vision-Language Models. [![arXiv](https://img.shields.io/badge/arXiv-2303.00905-b31b1b.svg)](https://arxiv.org/abs/2303.00905) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://robot-moo.github.io/)
 
 - [⭐️] **Code as Policies**, Code as Policies: Language Model Programs for Embodied Control. [![arXiv](https://img.shields.io/badge/arXiv-2209.07753-b31b1b.svg)](https://arxiv.org/abs/2209.07753) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://code-as-policies.github.io)
 
